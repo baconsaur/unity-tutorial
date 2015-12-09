@@ -6,5 +6,6 @@ Instructions:
 1. Fork/clone this repo
 2. Run Unity, select "open" from the Projects window, or go to file > Open Project...
 3. Select the unity-tutorial folder
+4. Go to the scenes folder and open "Main" to see the game
 
 All assets in this project are free for personal use and either made by me or downloaded from http://opengameart.org
